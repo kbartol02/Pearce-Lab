@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # kbartol02's Website
+  # Pearce lab website
 
   Visit **[kbartol02.github.io/Pearce-Lab](https://kbartol02.github.io/Pearce-Lab)** 🚀
 
