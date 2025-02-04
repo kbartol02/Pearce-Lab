@@ -1,7 +1,7 @@
 ---
 name: Sean Grady
 image: images/photo.jpg
-description: Lead Programmer
+description: Lab Technician
 role: Lab Technician
 links:
   email: 
