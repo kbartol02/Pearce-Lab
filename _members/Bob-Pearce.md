@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Robert A. Pearce
+image: images/Bobbert.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Wisconsin-Madison
 aliases:
-  - J. Smith
-  - J Smith
+  - Robert Pearce
+  - Bob Pearce
+  - RA Pearce
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-1516-6260
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
