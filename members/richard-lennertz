@@ -649,7 +649,7 @@
   <a class="portrait" data-style="" aria-label="Richard C. Lennertz">
     
 
-    <img src="/Pearce-Lab/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/Pearce-Lab/images/fallback.svg'; this.onerror = null;" />
+    <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/Pearce-Lab/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-name">
@@ -692,7 +692,6 @@
 </div>
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
 
