@@ -1,174 +1,1757 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.bjao.2024.100349
+  title: Association of preoperative to postoperative change in cerebrospinal fluid
+    fibrinogen with postoperative delirium
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Thomas Payne
+  - Jennifer Taylor
+  - David Kunkel
+  - Katherine Konieczka
+  - Frankie Ingram
+  - Kaj Blennow
+  - Henrik Zetterberg
+  - Robert A. Pearce
+  - Anke Meyer-Franke
+  - "Niccol\xF2 Terrando"
+  - Katerina Akassoglou
+  - Robert D. Sanders
+  - Richard C. Lennertz
+  publisher: BJA Open
+  date: '2024-12-01'
+  link: https://doi.org/g8xdck
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.bja.2023.05.023
+  title: Resolution of elevated interleukin-6 after surgery is associated with return
+    of normal cognitive function
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Jennifer Taylor
+  - Justin G. Wu
+  - David Kunkel
+  - Margaret Parker
+  - Cameron Rivera
+  - Cameron Casey
+  - Sharon Naismith
+  - Armando Teixeira-Pinto
+  - Mervyn Maze
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2023-10-01'
+  link: https://doi.org/gt646m
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2023.06.044
+  title: 'Subanaesthetic doses of ketamine reduce but do not eliminate predictive
+    coding responses: implications for mechanisms of sensory disconnection'
+  authors:
+  - Jordan J. Wehrman
+  - Cameron Casey
+  - Sean Tanabe
+  - Sounak Mohanta
+  - William Filbey
+  - Lilian Weber
+  - Matthew I. Banks
+  - Robert A. Pearce
+  - Yuri Saalmann
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2023-10-01'
+  link: https://doi.org/g83xzk
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2023.02.002
+  title: Plasma HMGB1 levels in postoperative delirium
+  authors:
+  - David Kunkel
+  - Margaret Parker
+  - Robert A. Pearce
+  - Robert D. Sanders
+  - Richard C. Lennertz
+  publisher: British Journal of Anaesthesia
+  date: '2023-05-01'
+  link: https://doi.org/g8xnrx
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2023.01.020
+  title: 'Prospective analysis of plasma amyloid beta and postoperative delirium in
+    the Interventions for Postoperative Delirium: Biomarker-3 study'
+  authors:
+  - Thomas Payne
+  - Jennifer Taylor
+  - Cameron Casey
+  - David Kunkel
+  - Maggie Parker
+  - Kaj Blennow
+  - Henrik Zetterberg
+  - Robert A. Pearce
+  - Richard C. Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2023-05-01'
+  link: https://doi.org/gsknd3
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms24065637
+  title: "Changes in Memory, Sedation, and Receptor Kinetics Imparted by the \u03B2\
+    2-N265M and \u03B23-N265M GABAA Receptor Point Mutations"
+  authors:
+  - Alifayaz Abdulzahir
+  - Steven Klein
+  - Chong Lor
+  - Mark G. Perkins
+  - Alyssa Frelka
+  - Robert A. Pearce
+  publisher: International Journal of Molecular Sciences
+  date: '2023-03-15'
+  link: https://doi.org/g83xzm
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2022.08.022
+  title: 'Sevoflurane dose and postoperative delirium: a prospective cohort analysis'
+  authors:
+  - Jennifer Taylor
+  - Thomas Payne
+  - Cameron Casey
+  - David Kunkel
+  - Maggie Parker
+  - Cameron Rivera
+  - Henrik Zetterberg
+  - Kaj Blennow
+  - Robert A. Pearce
+  - Richard C. Lennertz
+  - Tim McCulloch
+  - Amy Gaskell
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2023-02-01'
+  link: https://doi.org/grj5wd
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropharm.2022.109215
+  title: Dose-dependent suppression of hippocampal contextual memory formation, place
+    cells, and spatial engrams by the NMDAR antagonist (R)-CPP
+  authors:
+  - Mengwen Zhu
+  - Mark G. Perkins
+  - Richard Lennertz
+  - Alifayaz Abdulzahir
+  - Robert A. Pearce
+  publisher: Neuropharmacology
+  date: '2022-11-01'
+  link: https://doi.org/g83xzn
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.26.513964
+  title: "Propofol Reverses Surgery-Induced Neuroinflammation and Cognitive Impairment\
+    \ in Aged Mice via \u03B15-GABA<sub>A</sub>Receptors"
+  authors:
+  - Rajasekar Nagarajan
+  - Jinrui Lyu
+  - Maltesh Kambali
+  - Muxiao Wang
+  - Robert A. Pearce
+  - Uwe Rudolph
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-10-28'
+  link: https://doi.org/g83xzp
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.06.13.495957
+  title: Dose-dependent suppression of hippocampal contextual memory formation, place
+    cells, and spatial engrams by the NMDAR antagonist (R)-CPP
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Mengwen Zhu
+  - Mark G. Perkins
+  - Richard Lennertz
+  - Alifayez Abdulzahir
+  - Robert A. Pearce
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-06-16'
+  link: https://doi.org/g83xzq
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.neuropharm.2021.108846
+  title: CPP impairs contextual learning at concentrations below those that block
+    pyramidal neuron NMDARs and LTP in the CA1 region of the hippocampus
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Kurt Laha
+  - Mengwen Zhu
+  - Erin Gemperline
+  - Vinuta Rau
+  - Lingjun Li
+  - Michael S. Fanselow
+  - Richard Lennertz
+  - Robert A. Pearce
+  publisher: Neuropharmacology
+  date: '2022-01-01'
+  link: https://doi.org/g665qv
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.bja.2021.12.014
+  title: 'Amyloid deposition on positron emission tomography correlates with severity
+    of perioperative delirium: a case-control pilot study'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Maribel Torres-Vel\xE1zquez"
+  - Margaret Parker
+  - Amber Bo
+  - Marissa White
+  - Sean Tanabe
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Steve Y. Cho
+  - Barbara Bendlin
+  - Sterling C. Johnson
+  - Vivek Prabhakaran
+  - Alan B. McMillan
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2022-03-01'
+  link: https://doi.org/g83xzr
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.bja.2022.01.010
+  title: Distinct EEG signatures differentiate unconsciousness and disconnection during
+    anaesthesia and sleep
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Cameron P. Casey
+  - Sean Tanabe
+  - Zahra Farahbakhsh
+  - Margaret Parker
+  - Amber Bo
+  - Marissa White
+  - Tyler Ballweg
+  - Andrew Mcintosh
+  - William Filbey
+  - Yuri Saalmann
+  - Robert A. Pearce
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2022-06-01'
+  link: https://doi.org/g83xzs
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2022.01.005
+  title: "Postoperative delirium and changes in the blood\u2013brain barrier, neuroinflammation,\
+    \ and cerebrospinal fluid lactate: a prospective cohort study"
+  authors:
+  - Jennifer Taylor
+  - Margaret Parker
+  - Cameron P. Casey
+  - Sean Tanabe
+  - David Kunkel
+  - Cameron Rivera
+  - Henrik Zetterberg
+  - Kaj Blennow
+  - Robert A. Pearce
+  - Richard C. Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2022-08-01'
+  link: https://doi.org/gptv46
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2021.12.037
+  title: 'Role of interleukin-18 in postoperative delirium: an exploratory analysis'
+  authors:
+  - Justin G. Wu
+  - Jennifer Taylor
+  - Maggie Parker
+  - David Kunkel
+  - Cameron Rivera
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2022-03-01'
+  link: https://doi.org/g83xzt
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jn.00303.2021
+  title: "Hippocampal \u03B22-GABA<sub>A</sub> receptors mediate LTP suppression by\
+    \ etomidate and contribute to long-lasting feedback but not feedforward inhibition\
+    \ of pyramidal neurons"
+  authors:
+  - Alexander G. Figueroa
+  - Claudia Benkwitz
+  - Gabe Surges
+  - Nicholas Kunz
+  - Gregg E. Homanics
+  - Robert A. Pearce
+  publisher: Journal of Neurophysiology
+  date: '2021-10-01'
+  link: https://doi.org/g83xzv
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2020.08.061
+  title: 'Association between plasma tau and postoperative delirium incidence and
+    severity: a prospective observational study'
+  authors:
+  - Tyler Ballweg
+  - Marissa White
+  - Margaret Parker
+  - Cameron Casey
+  - Amber Bo
+  - Zahra Farahbakhsh
+  - Austin Kayser
+  - Alexander Blair
+  - Heidi Lindroth
+  - Robert A. Pearce
+  - Kaj Blennow
+  - Henrik Zetterberg
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2021-02-01'
+  link: https://doi.org/gjq8t7
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2021.08.027
+  title: 'Impact of postoperative delirium on days alive and at home after surgery:
+    a prospective cohort study'
+  authors:
+  - David Kunkel
+  - Margaret Parker
+  - Cameron Casey
+  - Bryan Krause
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2021-12-01'
+  link: https://doi.org/g83xzw
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/endocr/bqab120
+  title: Physiological Characterization and Transcriptomic Properties of GnRH Neurons
+    Derived From Human Stem Cells
+  authors:
+  - Kim L Keen
+  - Andrew J Petersen
+  - Alexander G Figueroa
+  - Benjamin I Fordyce
+  - Jaeweon Shin
+  - Rachita Yadav
+  - Serkan Erdin
+  - Robert A Pearce
+  - Michael E Talkowski
+  - Anita Bhattacharyya
+  - Ei Terasawa
+  publisher: Endocrinology
+  date: '2021-06-14'
+  link: https://doi.org/g83xzx
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2020.10.012
+  title: 'Postoperative troponin increases after noncardiac surgery are associated
+    with raised neurofilament light: a prospective observational cohort study'
+  authors:
+  - Robert D. Sanders
+  - Lenka Craigova
+  - Benjamin Schessler
+  - Cameron Casey
+  - Marissa White
+  - Margaret Parker
+  - David Kunkel
+  - Kaj Blennow
+  - Henrik Zetterberg
+  - Robert A. Pearce
+  - Richard Lennertz
+  publisher: British Journal of Anaesthesia
+  date: '2021-04-01'
+  link: https://doi.org/gjq8w5
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2021.02.028
+  title: Relationships between preoperative cortical thickness, postoperative electroencephalogram
+    slowing, and postoperative delirium
+  authors:
+  - Marissa F. White
+  - Sean Tanabe
+  - Cameron Casey
+  - Maggie Parker
+  - Amber Bo
+  - David Kunkel
+  - Veena Nair
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Vivek Prabhakaran
+  - Heidi Lindroth
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2021-08-01'
+  link: https://doi.org/grtgck
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms21249534
+  title: "Isoflurane Potentiation of GABAA Receptors Is Reduced but Not Eliminated\
+    \ by the \u03B23(N265M) Mutation"
+  authors:
+  - Chong Lor
+  - Misha Perouansky
+  - Robert A. Pearce
+  publisher: International Journal of Molecular Sciences
+  date: '2020-12-15'
+  link: https://doi.org/g83xzz
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-11459-4
+  title: Synaptotagmin 17 controls neurite outgrowth and synaptic physiology via distinct
+    cellular pathways
+  authors:
+  - David A. Ruhl
+  - Ewa Bomba-Warczak
+  - Emma T. Watson
+  - Mazdak M. Bradberry
+  - Tabitha A. Peterson
+  - Trina Basu
+  - Alyssa Frelka
+  - Chantell S. Evans
+  - Joseph S. Briguglio
+  - Tamara Basta
+  - Michael H. B. Stowell
+  - Jeffrey N. Savas
+  - Avtar Roopra
+  - Robert A. Pearce
+  - Robert C. Piper
+  - Edwin R. Chapman
+  publisher: Nature Communications
+  date: '2019-08-06'
+  link: https://doi.org/g83xz2
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/ALN.0000000000002589
+  title: Wake Up, Neurons! Astrocytes Calling
+  authors:
+  - Misha Perouansky
+  - M. Bruce MacIver
+  - Robert A. Pearce
+  publisher: Anesthesiology
+  date: '2019-03-01'
+  link: https://doi.org/g83xz3
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1802104115
+  title: Doc2-mediated superpriming supports synaptic augmentation
+  authors:
+  - Renhao Xue
+  - David A. Ruhl
+  - Joseph S. Briguglio
+  - Alexander G. Figueroa
+  - Robert A. Pearce
+  - Edwin R. Chapman
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-05-29'
+  link: https://doi.org/gdq3gm
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28842193
+  title: Flow characterization and patch clamp dose responses using jet microfluidics
+    in a tubeless microfluidic device.
+  authors:
+  - Pedro J Resto
+  - Abhishek Bhat
+  - Eric Stava
+  - Chong Lor
+  - Elliot Merriam
+  - Ruben E Diaz-Rivera
+  - Robert Pearce
+  - Robert Blick
+  - Justin C Williams
+  publisher: Journal of neuroscience methods
+  date: '2017-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28842193
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27331778
+  title: "Contrasting Effects of the \u03B3-Aminobutyric Acid Type A Receptor \u03B2\
+    3 Subunit N265M Mutation on Loss of Righting Reflexes Induced by Etomidate and\
+    \ the Novel Anesthetic Barbiturate R-mTFD-MPAB."
+  authors:
+  - Corey A Amlong
+  - Mark G Perkins
+  - Timothy T Houle
+  - Keith W Miller
+  - Robert A Pearce
+  publisher: Anesthesia and analgesia
+  date: '2016-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27331778
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26938988
+  title: Lipid-free Fluoropolymer-based Propofol Emulsions and Lipid Reversal of Propofol
+    Anesthesia in Rats.
+  authors:
+  - Colby L Parks
+  - William Tucker
+  - Corey A Amlong
+  - Sandro Mecozzi
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2016-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26938988
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1370-15.2015
+  title: "Tonic Inhibitory Control of Dentate Gyrus Granule Cells by \u03B15-Containing\
+    \ GABA<sub>A</sub>Receptors Reduces Memory Interference"
+  authors:
+  - Elif Engin
+  - Ewa D. Zarnowska
+  - Dietmar Benke
+  - Evgeny Tsvetkov
+  - Maksim Sigal
+  - Ruth Keist
+  - Vadim Y. Bolshakov
+  - Robert A. Pearce
+  - Uwe Rudolph
+  publisher: The Journal of Neuroscience
+  date: '2015-10-07'
+  link: https://doi.org/f73h89
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26134653
+  title: "Etomidate Impairs Long-Term Potentiation In Vitro by Targeting \u03B15-Subunit\
+    \ Containing GABAA Receptors on Nonpyramidal Cells."
+  authors:
+  - F Clifford Rodgers
+  - Ewa D Zarnowska
+  - Kurt T Laha
+  - Elif Engin
+  - Anja Zeller
+  - Ruth Keist
+  - Uwe Rudolph
+  - Robert A Pearce
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2015-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26134653
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25680234
+  title: Etomidate blocks LTP and impairs learning but does not enhance tonic inhibition
+    in mice carrying the N265M point mutation in the beta3 subunit of the GABA(A)
+    receptor.
+  authors:
+  - E D Zarnowska
+  - F C Rodgers
+  - I Oh
+  - V Rau
+  - C Lor
+  - K T Laha
+  - R Jurd
+  - U Rudolph
+  - E I Eger
+  - R A Pearce
+  publisher: Neuropharmacology
+  date: '2015-02-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25680234
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25211390
+  title: "Enhancement of \u03B15-containing \u03B3-aminobutyric acid type A receptors\
+    \ by the nonimmobilizer 1,2-dichlorohexafluorocyclobutane (F6) is abolished by\
+    \ the \u03B23(N265M) mutation."
+  authors:
+  - Paul M Burkat
+  - Chong Lor
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Anesthesia and analgesia
+  date: '2014-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25211390
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25663848
+  title: Measurement of NMDA Receptor Antagonist, CPP, in Mouse Plasma and Brain Tissue
+    Following Systematic Administration Using Ion-Pair LCMS/MS.
+  authors:
+  - Erin Gemperline
+  - Kurt Laha
+  - Cameron O Scarlett
+  - Robert A Pearce
+  - Lingjun Li
+  publisher: 'Analytical methods : advancing methods and applications'
+  date: '2014-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25663848
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24981228
+  title: A nonequilibrium binary elements-based kinetic model for benzodiazepine regulation
+    of GABAA receptors.
+  authors:
+  - Marcel P Goldschen-Ohm
+  - Alexander Haroldson
+  - Mathew V Jones
+  - Robert A Pearce
+  publisher: The Journal of general physiology
+  date: '2014-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24981228
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24862458
+  title: Midazolam and atropine alter theta oscillations in the hippocampal CA1 region
+    by modulating both the somatic and distal dendritic dipoles.
+  authors:
+  - Shilpashree Balakrishnan
+  - Robert A Pearce
+  publisher: Hippocampus
+  date: '2014-06-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24862458
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25628540
+  title: Spatiotemporal characteristics and pharmacological modulation of multiple
+    gamma oscillations in the CA1 region of the hippocampus.
+  authors:
+  - Shilpashree Balakrishnan
+  - Robert A Pearce
+  publisher: Frontiers in neural circuits
+  date: '2015-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25628540
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000319860504084
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000319860504084
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000330441700028
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000330441700028
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22343472
+  title: Isoflurane enhances both fast and slow synaptic inhibition in the hippocampus
+    at amnestic concentrations.
+  authors:
+  - Shuiping Dai
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2012-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22343472
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22354241
+  title: Exceptionally stable fluorous emulsions for the intravenous delivery of volatile
+    general anesthetics.
+  authors:
+  - Jun-Pil Jee
+  - Maria C Parlato
+  - Mark G Perkins
+  - Sandro Mecozzi
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2012-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22354241
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22258200
+  title: 'Isoflurane impairs odour discrimination learning in rats: differential effects
+    on short- and long-term memory.'
+  authors:
+  - R A Pearce
+  - P Duscher
+  - K Van Dyke
+  - M Lee
+  - A C Andrei
+  - M Perouansky
+  publisher: British journal of anaesthesia
+  date: '2012-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22258200
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000299414800070
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000299414800070
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21246564
+  title: Histamine release associated with intravenous delivery of a fluorocarbon-based
+    sevoflurane emulsion in canines.
+  authors:
+  - Rebecca A Johnson
+  - Ken T Simmons
+  - Jonathan P Fast
+  - Carrie A Schroeder
+  - Robert A Pearce
+  - Ralph M Albrecht
+  - Sandro Mecozzi
+  publisher: Journal of pharmaceutical sciences
+  date: '2011-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21246564
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21145601
+  title: 'GABA A,slow: causes and consequences.'
+  authors:
+  - Marco Capogna
+  - Robert A Pearce
+  publisher: Trends in neurosciences
+  date: '2010-12-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21145601
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21170624
+  title: 'How we recall (or don''t): the hippocampal memory machine and anesthetic
+    amnesia.'
+  authors:
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Canadian journal of anaesthesia = Journal canadien d'anesthesie
+  date: '2010-12-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21170624
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21042201
+  title: "Slowing of the hippocampal \u03B8 rhythm correlates with anesthetic-induced\
+    \ amnesia."
+  authors:
+  - Misha Perouansky
+  - Vinuta Rau
+  - Tim Ford
+  - S Irene Oh
+  - Mark Perkins
+  - Edmond I Eger
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21042201
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20597506
+  title: m-Azipropofol (AziPm) a photoactive analogue of the intravenous general anesthetic
+    propofol.
+  authors:
+  - Michael A Hall
+  - Jin Xi
+  - Chong Lor
+  - Shuiping Dai
+  - Robert Pearce
+  - William P Dailey
+  - Roderic G Eckenhoff
+  publisher: Journal of medicinal chemistry
+  date: '2010-08-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20597506
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20371809
+  title: The short splice variant of the gamma 2 subunit acts as an external modulator
+    of GABA(A) receptor function.
+  authors:
+  - Andrew J Boileau
+  - Robert A Pearce
+  - Cynthia Czajkowski
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2010-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20371809
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20219536
+  title: A microfluidic brain slice perfusion chamber for multisite recording using
+    penetrating electrodes.
+  authors:
+  - Alexander J Blake
+  - Frank C Rodgers
+  - Anna Bassuener
+  - Joseph A Hippensteel
+  - Thomas M Pearce
+  - Timothy R Pearce
+  - Ewa D Zarnowska
+  - Robert A Pearce
+  - Justin C Williams
+  publisher: Journal of neuroscience methods
+  date: '2010-02-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20219536
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:20133802
+  title: Breakdown in cortical effective connectivity during midazolam-induced loss
+    of consciousness.
+  authors:
+  - Fabio Ferrarelli
+  - Marcello Massimini
+  - Simone Sarasso
+  - Adenauer Casali
+  - Brady A Riedner
+  - Giuditta Angelini
+  - Giulio Tononi
+  - Robert A Pearce
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2010-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20133802
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-60761-462-3_1
+  title: Introduction
+  authors:
+  - Anthony Hudetz
+  - Robert Pearce
+  publisher: Contemporary Clinical Neuroscience
+  date: '2009-01-01'
+  link: https://doi.org/dbzfc7
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-60761-462-3_10
+  title: "Modulation of the Hippocampal \u03B8-Rhythm as a Mechanism for Anesthetic-Induced\
+    \ Amnesia"
+  authors:
+  - Misha Perouansky
+  - Robert Pearce
+  publisher: Contemporary Clinical Neuroscience
+  date: '2009-01-01'
+  link: https://doi.org/cw47vn
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19846622
+  title: Altered GABAA,slow inhibition and network oscillations in mice lacking the
+    GABAA receptor beta3 subunit.
+  authors:
+  - Harald Hentschke
+  - Claudia Benkwitz
+  - Matthew I Banks
+  - Mark G Perkins
+  - Gregg E Homanics
+  - Robert A Pearce
+  publisher: Journal of neurophysiology
+  date: '2009-10-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19846622
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19741493
+  title: Amnestic concentrations of etomidate modulate GABAA,slow synaptic inhibition
+    in hippocampus.
+  authors:
+  - Shuiping Dai
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2009-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19741493
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/aln.0b013e31819db946
+  title: All Together Now
+  authors:
+  - "Robert\_A. Pearce"
+  publisher: Anesthesiology
+  date: '2009-05-01'
+  link: https://doi.org/bd4sd3
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19346473
+  title: Identification of a fluorescent general anesthetic, 1-aminoanthracene.
+  authors:
+  - Christopher A Butts
+  - Jin Xi
+  - Grace Brannigan
+  - Abdalla A Saad
+  - Srinivasan P Venkatachalan
+  - Robert A Pearce
+  - Michael L Klein
+  - Roderic G Eckenhoff
+  - Ivan J Dmochowski
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2009-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19346473
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19073796
+  title: GABAA receptor alpha5 subunits contribute to GABAA,slow synaptic inhibition
+    in mouse hippocampus.
+  authors:
+  - Ewa D Zarnowska
+  - Ruth Keist
+  - Uwe Rudolph
+  - Robert A Pearce
+  publisher: Journal of neurophysiology
+  date: '2008-12-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19073796
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18813044
+  title: Fluoropolymer-based emulsions for the intravenous delivery of sevoflurane.
+  authors:
+  - Jonathan P Fast
+  - Mark G Perkins
+  - Robert A Pearce
+  - Sandro Mecozzi
+  publisher: Anesthesiology
+  date: '2008-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18813044
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17880398
+  title: Muscarinic blockade weakens interaction of gamma with theta rhythms in mouse
+    hippocampus.
+  authors:
+  - Harald Hentschke
+  - Mark G Perkins
+  - Robert A Pearce
+  - Matthew I Banks
+  publisher: The European journal of neuroscience
+  date: '2007-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17880398
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17525592
+  title: Amnesic concentrations of the nonimmobilizer 1,2-dichlorohexafluorocyclobutane
+    (F6, 2N) and isoflurane alter hippocampal theta oscillations in vivo.
+  authors:
+  - Misha Perouansky
+  - Harald Hentschke
+  - Mark Perkins
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2007-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17525592
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17376968
+  title: 'Functional neural development from human embryonic stem cells: accelerated
+    synaptic activity via astrocyte coculture.'
+  authors:
+  - M Austin Johnson
+  - Jason P Weick
+  - Robert A Pearce
+  - Su-Chun Zhang
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2007-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17376968
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:17197853
+  title: 'Determination of the EC50 amnesic concentration of etomidate and its diffusion
+    profile in brain tissue: implications for in vitro studies.'
+  authors:
+  - Claudia Benkwitz
+  - Mark Liao
+  - Michael J Laster
+  - James M Sonner
+  - Edmond I Eger
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17197853
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16914682
+  title: Active and passive membrane properties and intrinsic kinetics shape synaptic
+    inhibition in hippocampal CA1 pyramidal neurons.
+  authors:
+  - Jason B Hardie
+  - Robert A Pearce
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2006-08-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16914682
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16807363
+  title: 'An isoflurane- and alcohol-insensitive mutant GABA(A) receptor alpha(1)
+    subunit with near-normal apparent affinity for GABA: characterization in heterologous
+    systems and production of knockin mice.'
+  authors:
+  - C M Borghese
+  - D F Werner
+  - N Topf
+  - N V Baron
+  - L A Henderson
+  - S L Boehm
+  - Y A Blednov
+  - A Saad
+  - S Dai
+  - R A Pearce
+  - R A Harris
+  - G E Homanics
+  - N L Harrison
+  publisher: The Journal of pharmacology and experimental therapeutics
+  date: '2006-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16807363
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16339017
+  title: Tandem subunits effectively constrain GABAA receptor stoichiometry and recapitulate
+    receptor kinetics but are insensitive to GABAA receptor-associated protein.
+  authors:
+  - Andrew J Boileau
+  - Robert A Pearce
+  - Cynthia Czajkowski
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2005-12-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16339017
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16037152
+  title: The gamma-subunit governs the susceptibility of recombinant gamma-aminobutyric
+    acid type A receptors to block by the nonimmobilizer 1,2-dichlorohexafluorocyclobutane
+    (F6, 2N).
+  authors:
+  - Ewa D Zarnowska
+  - Robert A Pearce
+  - Abdallah A Saad
+  - Misha Perouansky
+  publisher: Anesthesia and analgesia
+  date: '2005-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16037152
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15917474
+  title: Directed differentiation of dopaminergic neuronal subtypes from human embryonic
+    stem cells.
+  authors:
+  - Yiping Yan
+  - Dali Yang
+  - Ewa D Zarnowska
+  - Zhongwei Du
+  - Brian Werbel
+  - Chuck Valliere
+  - Robert A Pearce
+  - James A Thomson
+  - Su-Chun Zhang
+  publisher: Stem cells (Dayton, Ohio)
+  date: '2005-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15917474
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15920193
+  title: The differential effects of the nonimmobilizer 1,2-dichlorohexafluorocyclobutane
+    (F6, 2N) and isoflurane on extrasynaptic gamma-aminobutyric acid A receptors.
+  authors:
+  - Misha Perouansky
+  - Mathew I Banks
+  - Robert A Pearce
+  publisher: Anesthesia and analgesia
+  date: '2005-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15920193
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15685164
+  title: Specification of motoneurons from human embryonic stem cells.
+  authors:
+  - Xue-Jun Li
+  - Zhong-Wei Du
+  - Ewa D Zarnowska
+  - Matthew Pankratz
+  - Lauren O Hansen
+  - Robert A Pearce
+  - Su-Chun Zhang
+  publisher: Nature biotechnology
+  date: '2005-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15685164
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ics.2005.06.040
+  title: 'Non-immobilizers put to the test: F6 and the GABAA receptor'
+  authors:
+  - Misha Perouansky
+  - Robert A. Pearce
+  publisher: International Congress Series
+  date: '2005-11-01'
+  link: https://doi.org/d6wwg5
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15448526
+  title: Influence of GABAA receptor gamma2 splice variants on receptor kinetics and
+    isoflurane modulation.
+  authors:
+  - Claudia Benkwitz
+  - Matthew I Banks
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2004-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15448526
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15377586
+  title: 'Determination of diffusion and partition coefficients of propofol in rat
+    brain tissue: implications for studies of drug action in vitro.'
+  authors:
+  - J A Gredell
+  - P A Turnquist
+  - M B Maciver
+  - R A Pearce
+  publisher: British journal of anaesthesia
+  date: '2004-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15377586
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15331240
+  title: Diversity of inhibitory neurotransmission through GABA(A) receptors.
+  authors:
+  - Istvan Mody
+  - Robert A Pearce
+  publisher: Trends in neurosciences
+  date: '2004-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15331240
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15220773
+  title: Effects on synaptic inhibition in the hippocampus do not underlie the amnestic
+    and convulsive properties of the nonimmobilizer 1,2-dichlorohexafluorocyclobutane.
+  authors:
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2004-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15220773
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:15108957
+  title: 'Anesthetic effects on glutamatergic neurotransmission: lessons learned from
+    a large synapse.'
+  authors:
+  - Misha Perouansky
+  - Hugh C Hemmings
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2004-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15108957
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:12826851
+  title: Differential uptake of volatile agents into brain tissue in vitro. Measurement
+    and application of a diffusion model to determine concentration profiles in brain
+    slices.
+  authors:
+  - Michael A Chesney
+  - Misha Perouansky
+  - Robert A Pearce
+  publisher: Anesthesiology
+  date: '2003-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12826851
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:12763093
+  title: Effects of gamma2S subunit incorporation on GABAA receptor macroscopic kinetics.
+  authors:
+  - A J Boileau
+  - T Li
+  - C Benkwitz
+  - C Czajkowski
+  - R A Pearce
+  publisher: Neuropharmacology
+  date: '2003-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12763093
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:12651651
+  title: Isoflurane antagonizes the capacity of flurothyl or 1,2-dichlorohexafluorocyclobutane
+    to impair fear conditioning to context and tone.
+  authors:
+  - Edmond I Eger
+  - Yilei Xing
+  - Robert Pearce
+  - Steven Shafer
+  - Michael J Laster
+  - Yi Zhang
+  - Michael S Fanselow
+  - James M Sonner
+  publisher: Anesthesia and analgesia
+  date: '2003-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12651651
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00000542-200311000-00015
+  title: "Lidocaine Enhances G\u03B1iProtein Function"
+  authors:
+  - Claudia Benkwitz
+  - "James\_C. Garrison"
+  - Joel Linden
+  - "Marcel\_E. Durieux"
+  - "Markus\_W. Hollmann"
+  publisher: Anesthesiology
+  date: '2003-11-01'
+  link: https://doi.org/fn9gq8
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:12466433
+  title: Development of GABA(A) receptor-mediated inhibitory postsynaptic currents
+    in hippocampus.
+  authors:
+  - Matthew I Banks
+  - Jason B Hardie
+  - Robert A Pearce
+  publisher: Journal of neurophysiology
+  date: '2002-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12466433
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000184178900047
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000184178900047
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10869419
+  title: Networks of interneurons with fast and slow gamma-aminobutyric acid type
+    A (GABAA) kinetics provide substrate for mixed gamma-theta rhythm.
+  authors:
+  - J A White
+  - M I Banks
+  - R A Pearce
+  - N J Kopell
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2000-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10869419
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10781283
+  title: Rapid and direct modulation of GABAA receptors by halothane.
+  authors:
+  - X Li
+  - C Czajkowski
+  - R A Pearce
+  publisher: Anesthesiology
+  date: '2000-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10781283
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10648694
+  title: 'Effects of halothane on GABA(A) receptor kinetics: evidence for slowed agonist
+    unbinding.'
+  authors:
+  - X Li
+  - R A Pearce
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2000-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10648694
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10719898
+  title: Interactions between distinct GABA(A) circuits in hippocampus.
+  authors:
+  - M I Banks
+  - J A White
+  - R A Pearce
+  publisher: Neuron
+  date: '2000-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10719898
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10648698
+  title: Kinetic differences between synaptic and extrasynaptic GABA(A) receptors
+    in CA1 pyramidal cells.
+  authors:
+  - M I Banks
+  - R A Pearce
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2000-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10648698
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:11037765
+  title: Is anesthesia caused by potentiation of synaptic or intrinsic inhibition?
+    Recent insights into the mechanisms of volatile anesthetics.
+  authors:
+  - M Perouansky
+  - R A Pearce
+  publisher: Journal of basic and clinical physiology and pharmacology
+  date: '2000-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11037765
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000085034100392
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000085034100392
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000089136800733
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000089136800733
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00000542-199911000-00007
+  title: 'Barbiturates and the Brain: Disrupting the Delicate Balance'
+  authors:
+  - "Robert\_A. Pearce"
+  publisher: Anesthesiology
+  date: '1999-11-01'
+  link: https://doi.org/df7bpk
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9915321
+  title: 'Dual actions of volatile anesthetics on GABA(A) IPSCs: dissociation of blocking
+    and prolonging effects.'
+  authors:
+  - M I Banks
+  - R A Pearce
+  publisher: Anesthesiology
+  date: '1999-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9915321
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000078507400311
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000078507400311
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000082480600797
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000082480600797
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9696323
+  title: Concentration measures of volatile anesthetics in the aqueous phase using
+    calcium sensitive electrodes.
+  authors:
+  - C E Hagan
+  - R A Pearce
+  - J R Trudell
+  - M B MacIver
+  publisher: Journal of neuroscience methods
+  date: '1998-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9696323
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9454840
+  title: The synaptic basis of GABAA,slow.
+  authors:
+  - M I Banks
+  - T B Li
+  - R A Pearce
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '1998-02-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9454840
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000075810900728
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000075810900728
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000075810900729
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000075810900729
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000075810900725
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000075810900725
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000075810900727
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000075810900727
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000071825800012
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000071825800012
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:9356403
+  title: GABAA-mediated IPSCs in piriform cortex have fast and slow components with
+    different properties and locations on pyramidal cells.
+  authors:
+  - A Kapur
+  - R A Pearce
+  - W W Lytton
+  - L B Haberly
+  publisher: Journal of neurophysiology
+  date: '1997-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9356403
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00000542-199709001-00617
+  title: A617 Effect of halothane on GABA sub A receptors studied using rapid application
+    techniques
+  authors:
+  - Xiaoshen Li
+  - Matthew I. Banks
+  - Cynthia A. Czajkowski
+  - Robert A. Pearce
+  publisher: Anesthesiology
+  date: '1997-09-01'
+  link: https://doi.org/bckjhc
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00000542-199709001-00628
+  title: A628 Enflurane reduces IPSC amplitude by a postsynaptic mechanism
+  authors:
+  - Robert Pearce
+  - Matthew Banks
+  publisher: Anesthesiology
+  date: '1997-09-01'
+  link: https://doi.org/d95s39
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8692820
+  title: Targeted deletion in astrocyte intermediate filament (Gfap) alters neuronal
+    physiology.
+  authors:
+  - M A McCall
+  - R G Gregg
+  - R R Behringer
+  - M Brenner
+  - C L Delaney
+  - E J Galbreath
+  - C L Zhang
+  - R A Pearce
+  - S Y Chiu
+  - A Messing
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1996-06-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8692820
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8734993
+  title: Volatile anaesthetic enhancement of paired-pulse depression investigated
+    in the rat hippocampus in vitro.
+  authors:
+  - R A Pearce
+  publisher: The Journal of physiology
+  date: '1996-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8734993
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1996VM46600684
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1996VM46600684
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1996VM46600702
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1996VM46600702
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:7602535
+  title: Different mechanisms for use-dependent depression of two GABAA-mediated IPSCs
+    in rat hippocampus.
+  authors:
+  - R A Pearce
+  - S D Grunder
+  - L D Faucher
+  publisher: The Journal of physiology
+  date: '1995-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7602535
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:7506755
+  title: 'Hyperpolarization-activated cation current (Ih) in neurons of the medial
+    nucleus of the trapezoid body: voltage-clamp analysis and enhancement by norepinephrine
+    and cAMP suggest a modulatory mechanism in the auditory brain stem.'
+  authors:
+  - M I Banks
+  - R A Pearce
+  - P H Smith
+  publisher: Journal of neurophysiology
+  date: '1993-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7506755
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:8382497
+  title: Physiological evidence for two distinct GABAA responses in rat hippocampus.
+  authors:
+  - R A Pearce
+  publisher: Neuron
+  date: '1993-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8382497
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1044-5765(05)80023-5
+  title: Mechanisms of intersegmental coordination in leech locomotion
+  authors:
+  - W.O. Friesen
+  - R.A. Pearce
+  publisher: Seminars in Neuroscience
+  date: '1993-02-01'
+  link: https://doi.org/bdfxhr
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1992BX22A00058
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1992BX22A00058
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1991FC20702884
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1991FC20702884
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:2802217
+  title: Effect of volatile anesthetics on synaptic transmission in the rat hippocampus.
+  authors:
+  - R A Pearce
+  - J L Stringer
+  - E W Lothman
+  publisher: Anesthesiology
+  date: '1989-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2802217
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:2771161
+  title: Retrotrapezoid nucleus in the rat.
+  authors:
+  - R A Pearce
+  - R L Stornetta
+  - P G Guyenet
+  publisher: Neuroscience letters
+  date: '1989-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2771161
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00000542-198910000-00019
+  title: Effect of Volatile Anesthetics on Synaptic Transmission in the Rat Hippocampus
+  authors:
+  - "Robert\_A. Pearce"
+  - "Janet\_L. Stringer"
+  - "Eric\_W. Lothman"
+  publisher: Anesthesiology
+  date: '1989-10-01'
+  link: https://doi.org/bw3nz2
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:3382701
+  title: A model for intersegmental coordination in the leech nerve cord.
+  authors:
+  - R A Pearce
+  - W O Friesen
+  publisher: Biological cybernetics
+  date: '1988-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3382701
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:3668878
+  title: 'Neural mechanisms generating the leech swimming rhythm: swim-initiator neurons
+    excite the network of swim oscillator neurons.'
+  authors:
+  - M P Nusbaum
+  - W O Friesen
+  - W B Kristan
+  - R A Pearce
+  publisher: Journal of comparative physiology. A, Sensory, neural, and behavioral
+    physiology
+  date: '1987-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3668878
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:4087042
+  title: Intersegmental coordination of the leech swimming rhythm. I. Roles of cycle
+    period gradient and coupling strength.
+  authors:
+  - R A Pearce
+  - W O Friesen
+  publisher: Journal of neurophysiology
+  date: '1985-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/4087042
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:4087043
+  title: Intersegmental coordination of the leech swimming rhythm. II. Comparison
+    of long and short chains of ganglia.
+  authors:
+  - R A Pearce
+  - W O Friesen
+  publisher: Journal of neurophysiology
+  date: '1985-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/4087043
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:6733455
+  title: 'Intersegmental coordination of leech swimming: comparison of in situ and
+    isolated nerve cord activity with body wall movement.'
+  authors:
+  - R A Pearce
+  - W O Friesen
+  publisher: Brain research
+  date: '1984-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/6733455
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:7080129
+  title: 'Measurement of rCBF by H2 clearance: theoretical analysis of diffusion effects.'
+  authors:
+  - R A Pearce
+  - J M Adams
+  publisher: Stroke
+  date: '1982-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7080129
+  orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +1767,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +1783,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
