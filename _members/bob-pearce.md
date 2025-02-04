@@ -1,7 +1,7 @@
 ---
 name: Robert A. Pearce
 image: images/Bobbert.jpg
-role: Principal Investigator
+description: Principal Investigator
 affiliation: University of Wisconsin - Madison
 aliases:
   - Robert Pearce
