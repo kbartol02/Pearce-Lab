@@ -1,5 +1,5 @@
 ---
-name: Chan (Cat) Chu
+name: Cat Chu
 image: images/catchu.png
 description: Research Intern
 affiliation: University of Wisconsin - Madison
