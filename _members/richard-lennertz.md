@@ -1,6 +1,6 @@
 ---
 name: Richard C. Lennertz
-role: Associate Professor, MD-PhD
+description: Associate Professor, MD-PhD
 affiliation: University of Wisconsin-Madison
 image: images/photo.jpg
 aliases:
