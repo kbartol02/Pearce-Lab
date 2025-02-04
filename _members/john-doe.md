@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Mark Perkins
 image: images/photo.jpg
-role: phd
+role: Lab Manaer
 group: alum
 links:
   github: john-doe
