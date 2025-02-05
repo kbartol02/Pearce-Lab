@@ -1754,61 +1754,29 @@
   orcid: 0000-0002-1516-6260
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: 10.1093/pnasnexus/pgad065
+  title: "Control of contextual memory through interneuronal \u03B15-GABAA receptors"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Mengwen Zhu
+  - Alifayaz Abdulzahir
+  - Mark G Perkins
+  - Chan C Chu
+  - Bryan M Krause
+  - Cameron Casey
+  - Richard Lennertz
+  - David Ruhl
+  - Harald Hentschke
+  - Rajasekar Nagarajan
+  - Edwin R Chapman
+  - Uwe Rudolph
+  - Michael S Fanselow
+  - Robert A Pearce
+  publisher: PNAS Nexus
+  date: '2023-04-11'
+  link: https://doi.org/gr4sf9
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pnasnexus/2/4/10.1093_pnasnexus_pgad065/4/m_pgad065f1.jpeg?Expires=1739930883&Signature=4YkW3ST82SmSItcACz8oLfmWAJTi~xBeBNwzf66vFdc686qNZD3uFlsh~tN6P19F0OfSnBfrNOeI8fTIWM1mb93tyJCeHtwHHCqnw45GiZwhmEzLmBjtSi5cKxoV2qGW~D4FZOWtL55byRVDICSv5eMvE~6cCqmaZurYlf1FBFHsedfWGUrSCdGS6VSrWrOD910ietDQ2zqVuf7S2WF07ZhbDSIfWjcFUo2uW6dbDDca-GuY~UttAemi8ewC8nEk0lxwvnAVaZmIiFnH7mC95YP7522fSRevyuKEY74vgeSEuwmfYZUDSAasrNQtK4wdJiSx0EVquD7WXTlbAshazA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
