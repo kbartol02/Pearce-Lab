@@ -1,6 +1,6 @@
 ---
 name: Kai Bartol
-image: Kai-bartol
+image: images/Kai-Bartol
 role: PhD
 description: PhD Student
 affiliation: Neuroscience Training Program, University of Wisconsin - Madison
