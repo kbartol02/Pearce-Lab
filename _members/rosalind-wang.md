@@ -1,6 +1,6 @@
 ---
 name: Yizhou Rosalind Wang
-image: 
+image: images/Rosalind.jpg
 description: PhD Student
 affiliation: Pharmaceutical Sciences, University of Wisconsin - Madison
 links:
