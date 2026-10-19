@@ -1,5 +1,176 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.bjao.2026.100576
+  title: 'Peak alpha frequency and spectral exponent in postoperative delirium: a
+    high-density EEG cohort study'
+  authors:
+  - Klevest Gjini
+  - David Kunkel
+  - Matthew I. Banks
+  - Robert A. Pearce
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: BJA Open
+  date: '2026-09-01'
+  link: https://doi.org/hb9j9f
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bjao.2026.100546
+  title: 'The association between cerebrospinal fluid interleukin-6, soluble interleukin-6
+    receptor, and interleukin-6 trans-signalling binary complex with postoperative
+    delirium: an observational cohort study'
+  authors:
+  - Justin G. Wu
+  - Jennifer Taylor
+  - David Kunkel
+  - Mervyn Maze
+  - Robert A. Pearce
+  - Robert D. Sanders
+  - Richard Lennertz
+  publisher: BJA Open
+  date: '2026-06-01'
+  link: https://doi.org/hbwvmq
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.03.26352074
+  title: One-Year Brain Structural Changes Are Associated with Postoperative Delirium
+    and Delayed Resolution of Interleukin-6
+  authors:
+  - Jinglei Lv
+  - Jennifer Taylor
+  - Samantha Curtis
+  - Kaitlin Kramer
+  - David Kunkel
+  - Shalini Thakur
+  - Veena Nair
+  - Matthew I. Banks
+  - Robert A. Pearce
+  - Vivek Prabhakaran
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: openRxiv
+  date: '2026-05-08'
+  link: https://doi.org/hb3fdj
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bja.2025.11.036
+  title: Dysfunctional resting state network connectivity predicts postoperative delirium
+    after major surgery
+  authors:
+  - Natasha L. Taylor
+  - Jordan Wehrman
+  - Matthew I. Banks
+  - Veena Nair
+  - Robert A. Pearce
+  - David Kunkel
+  - James M. Shine
+  - Vivek Prabhakaran
+  - Richard Lennertz
+  - Robert D. Sanders
+  publisher: British Journal of Anaesthesia
+  date: '2026-05-01'
+  link: https://doi.org/hbhrqr
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-7881643/v1
+  title: Preoperative Cholinergic Signatures Drive Segregated Brain Architecture in
+    Postoperative Delirium
+  authors:
+  - Natasha Taylor
+  - Brandon Munn
+  - Klevest Gjini
+  - Isabella Orlando
+  - Benjamin Moran
+  - Jennifer Taylor
+  - Jordan Wehrmann
+  - Matthew Banks
+  - Veena Nair
+  - Robert Pearce
+  - David Kunkel
+  - Vivek Prabhakaran
+  - Richard Lennertz
+  - James Shine
+  - Robert Sanders
+  publisher: Springer Science and Business Media LLC
+  date: '2025-11-23'
+  link: https://doi.org/hbb8mc
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/pnasnexus/pgaf213
+  title: Noncanonical sustained actions of propofol reverse surgery-induced microglial
+    activation and cognitive impairment in aged mice
+  authors:
+  - Rajasekar Nagarajan
+  - Jinrui Lyu
+  - Maltesh Kambali
+  - Muxiao Wang
+  - Robert A Pearce
+  - Uwe Rudolph
+  publisher: PNAS Nexus
+  date: '2025-06-30'
+  link: https://doi.org/g9s4fw
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.17.660226
+  title: Dynamic encoding of valence by anterior cingulate cortex in mice
+  authors:
+  - Priyodarshan Goswamee
+  - Nilanjana Saferin
+  - Radha Shah
+  - Jorge S. Seoane
+  - Kamalika Ganguly
+  - Kari L. Neifer
+  - Robert A. Pearce
+  - James P. Burkett
+  publisher: openRxiv
+  date: '2025-06-23'
+  link: https://doi.org/g9rr99
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bjao.2025.100398
+  title: "The 3-Minute Diagnostic Confusion Assessment Method severity score correlates\
+    \ with the Delirium Rating Scale\u2013Revised\u201398 and with biomarkers of delirium"
+  authors:
+  - Cameron Rivera
+  - David Kunkel
+  - Maihlee Her
+  - Simran Qureshi
+  - Robert A. Pearce
+  - Robert D. Sanders
+  - Richard Lennertz
+  publisher: BJA Open
+  date: '2025-06-01'
+  link: https://doi.org/g9gs8q
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/ENEURO.0504-24.2025
+  title: <i>Gfap</i>Mutation and Astrocyte Dysfunction Lead to a Neurodegenerative
+    Profile with Impaired Synaptic Plasticity and Cognitive Deficits in a Rat Model
+    of Alexander Disease
+  authors:
+  - Robert F. Berman
+  - Matthew R. Matson
+  - Angelica M. Bachman
+  - Ni-Hsuan Lin
+  - Sierra Coyne
+  - Alyssa Frelka
+  - Robert A. Pearce
+  - Albee Messing
+  - Tracy L. Hagemann
+  publisher: eneuro
+  date: '2025-03-01'
+  link: https://doi.org/g8998r
+  orcid: 0000-0002-1516-6260
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bjao.2024.100349
   title: Association of preoperative to postoperative change in cerebrospinal fluid
     fibrinogen with postoperative delirium
@@ -154,7 +325,8 @@
   file: orcid.yaml
 - id: doi:10.1101/2022.10.26.513964
   title: "Propofol Reverses Surgery-Induced Neuroinflammation and Cognitive Impairment\
-    \ in Aged Mice via \u03B15-GABA<sub>A</sub>Receptors"
+    \ in Aged Mice via \u03B15-GABA\n                  <sub>A</sub>\n            \
+    \      Receptors"
   authors:
   - Rajasekar Nagarajan
   - Jinrui Lyu
@@ -162,7 +334,7 @@
   - Muxiao Wang
   - Robert A. Pearce
   - Uwe Rudolph
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-28'
   link: https://doi.org/g83xzp
   orcid: 0000-0002-1516-6260
@@ -177,7 +349,7 @@
   - Richard Lennertz
   - Alifayez Abdulzahir
   - Robert A. Pearce
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-06-16'
   link: https://doi.org/g83xzq
   orcid: 0000-0002-1516-6260
